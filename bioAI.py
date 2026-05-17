@@ -147,5 +147,3 @@ with tab4:
 # 頁尾
 st.markdown("---")
 st.center = st.write("© 2026 醫療科技前沿戰術指揮部 · 數據經三階段技術正確性校準")
-medical_ai_streamlit_app.py
-目前顯示的是「medical_ai_streamlit_app.py」。
